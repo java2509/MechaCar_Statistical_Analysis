@@ -10,6 +10,7 @@
 - Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 
+## Resources:
 
 ## Linear Regression to Predict MPG
 
