@@ -14,6 +14,13 @@
 
 ## Deliverable 1 : Linear Regression to Predict MPG
 
+![image](https://user-images.githubusercontent.com/93900628/158078875-b81be95a-45fe-4338-9015-c162d9f214f8.png)
+
+![image](https://user-images.githubusercontent.com/93900628/158078969-057d5fe9-9e24-4064-a844-84f59cafef56.png)
+
+
+
+
 A multiple linear regression was ran using RStudio where it was determined
 
 
