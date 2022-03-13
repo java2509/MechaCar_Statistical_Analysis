@@ -49,17 +49,17 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ![image](https://user-images.githubusercontent.com/93900628/158084424-43a807e9-28d8-4bc3-9f42-e47998d8331a.png)
 
-## Overall t-test results
+#### Overall t-test results
 ![image](https://user-images.githubusercontent.com/93900628/158084568-c4d98ab6-d543-49cf-bc91-7128f9067c44.png)
 
 
-## Lot 1 Sample t-test
+#### Lot 1 Sample t-test
 ![image](https://user-images.githubusercontent.com/93900628/158084605-2318e9b7-9ca4-4410-8ab5-74df99d20618.png)
 
-## Lot 2 Sample t-test
-![image](https://user-images.githubusercontent.com/93900628/158084635-2158b390-60fa-4750-8027-be9d465a74da.png)## Lot 3 Sample t-test
+#### Lot 2 Sample t-test
+![image](https://user-images.githubusercontent.com/93900628/158084635-2158b390-60fa-4750-8027-be9d465a74da.png)
 
-## Lot 3 Sample t-test
+#### Lot 3 Sample t-test
 ![image](https://user-images.githubusercontent.com/93900628/158084671-bdc8dad3-096e-4a4f-a150-ec50ae3eed3d.png)
 
 Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
