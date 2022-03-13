@@ -12,7 +12,7 @@
 
 ## Resources:
 
-## Linear Regression to Predict MPG
+## Deliverable 1 : Linear Regression to Predict MPG
 
 A multiple linear regression was ran using RStudio where it was determined
 
