@@ -12,8 +12,10 @@
 
 ## Resources:
 R version 4.1.3
+
 R Studio version 2022.02.0+443
-Data Source: 
+
+Data Source: MechaCar_mpg.csv, Suspension_Coil.csv(.../Resources/MechaCar_mpg.csv)
 
 
 
