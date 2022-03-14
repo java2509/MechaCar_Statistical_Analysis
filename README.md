@@ -20,6 +20,7 @@ Data Source: [MechaCar_mpg.csv](https://github.com/java2509/MechaCar_Statistical
 
 ## Deliverable 1 : Linear Regression to Predict MPG
 
+### /R-Script
 ![image](https://user-images.githubusercontent.com/93900628/158078875-b81be95a-45fe-4338-9015-c162d9f214f8.png)
 
 ![image](https://user-images.githubusercontent.com/93900628/158078969-057d5fe9-9e24-4064-a844-84f59cafef56.png)
