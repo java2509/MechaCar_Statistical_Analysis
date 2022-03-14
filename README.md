@@ -114,10 +114,12 @@ Null Hypothesis: The mean purchase price of all the cars in a class are equal
 Alternative Hypothesis: At least one of the means purchase price are not equal
 
 3.) What statistical test would you use to test the hypothesis? And why?
+
 ANOVA Testing, I want to test the mean purchase prices of more than 10 samples.
 
 4.) What data is needed to run the statistical test?
-You would need all the purchase prices of the cars in the same class as Mecha-Car that are competition.
+
+You would need all the purchase prices of the cars in the same class as Mecha-Car that are competition. The purchase price will all be in USD.
 
 
 
