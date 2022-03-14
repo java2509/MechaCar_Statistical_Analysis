@@ -2,8 +2,9 @@
 
 ## Overview:
 
+The newest prototype from AutosRUs’, the MechaCar, is suffering production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management has called on Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team.
 
-
+In this challenge, you’ll help Jeremy and the data analytics team do the following:
 
 - Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
 - Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
@@ -17,8 +18,6 @@ R Studio version 2022.02.0+443
 
 Data Source: [MechaCar_mpg.csv](https://github.com/java2509/MechaCar_Statistical_Analysis/blob/main/Resources/MechaCar_mpg.csv), [Suspension_Coil.csv](https://github.com/java2509/MechaCar_Statistical_Analysis/blob/main/Resources/Suspension_Coil.csv)
 
-
-
 ## Deliverable 1 : Linear Regression to Predict MPG
 
 ![image](https://user-images.githubusercontent.com/93900628/158078875-b81be95a-45fe-4338-9015-c162d9f214f8.png)
@@ -26,10 +25,7 @@ Data Source: [MechaCar_mpg.csv](https://github.com/java2509/MechaCar_Statistical
 ![image](https://user-images.githubusercontent.com/93900628/158078969-057d5fe9-9e24-4064-a844-84f59cafef56.png)
 
 
-
-
 A multiple linear regression was ran using RStudio where it was determined
-
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
