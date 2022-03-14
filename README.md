@@ -105,13 +105,13 @@ In your description, address the following questions:
 
 1.) What metric or metrics are you going to test?
 
-Purchase Price of at least 10 of Mecha-cars competitors,
+Purchase Price of at least 10 of Mecha-cars competitors in the same vehicle class.
 
 2.) What is the null hypothesis or alternative hypothesis?
 
 Purchase Price: 
-Null Hypothesis: The mean purchase price of all the cars in a class are equal
-Alternative Hypothesis: At least one of the means purchase price are not equal
+Null Hypothesis: The mean purchase price of all the cars in a class are equal.
+Alternative Hypothesis: At least one of the means purchase price are not equal.
 
 3.) What statistical test would you use to test the hypothesis? And why?
 
