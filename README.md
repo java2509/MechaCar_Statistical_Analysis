@@ -37,7 +37,7 @@ Is the slope of the linear model considered to be zero? Why or why not?
 
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-## Summary Statistics on Suspension Coils
+## Deliverable 2 : Summary Statistics on Suspension Coils
 
 #### _R-Script_
 ![image](https://user-images.githubusercontent.com/93900628/158081256-783cd663-5636-4969-8ae0-d86125fed58a.png)
@@ -52,7 +52,7 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
-## T-Tests on Suspension Coils
+## Deliverable 3 : T-Tests on Suspension Coils
 
 #### _R-Script_
 ![image](https://user-images.githubusercontent.com/93900628/158084424-43a807e9-28d8-4bc3-9f42-e47998d8331a.png)
@@ -72,7 +72,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
- ## Study Design: MechaCar vs Competition
+ ## Deliverable 4 : Study Design: MechaCar vs Competition
  
  Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
  
