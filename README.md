@@ -57,16 +57,17 @@ This linear model has an r-squared value of 0.7149 indicating a strong correlati
 
 ![image](https://user-images.githubusercontent.com/93900628/158081350-b6dc53bf-a6db-46fb-add7-8deaffec1619.png)
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+1.) The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+The varinace of the suspension coils for all manufacturing lots in total are 62 PSI which meets the design specifications, but when we look at each lot individually Lot 1 (variance of 0.98 PSI) and Lot 2 (variance of 7.4 PSI) meet the design specifications. Lot 3 does not meet the design specifications with a variance of 170 PSI. Lot 3 needs to be separated and discarded and an investigation should happen to determine the gap in the variance. 
 
 ## Deliverable 3 : T-Tests on Suspension Coils
 
 #### _R-Script_
 ![image](https://user-images.githubusercontent.com/93900628/158084424-43a807e9-28d8-4bc3-9f42-e47998d8331a.png)
 
-#### _Outcome:Overall t-test results_
+#### _Outcome:Overall Sample t-test results_
 ![image](https://user-images.githubusercontent.com/93900628/158084568-c4d98ab6-d543-49cf-bc91-7128f9067c44.png)
-
 
 #### _Outcome:Lot 1 Sample t-test results_
 ![image](https://user-images.githubusercontent.com/93900628/158084605-2318e9b7-9ca4-4410-8ab5-74df99d20618.png)
@@ -77,7 +78,24 @@ The design specifications for the MechaCar suspension coils dictate that the var
 #### _Outcome:Lot 3 Sample t-test results_
 ![image](https://user-images.githubusercontent.com/93900628/158084671-bdc8dad3-096e-4a4f-a150-ec50ae3eed3d.png)
 
-Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+T-Test is used to test the following hypotheses:
+
+H0 : There is no statistical difference between the observed sample mean and its presumed population mean.
+
+Ha : There is a statistical difference between the observed sample mean and its presumed population mean.
+
+Overall Sample t-test results:
+
+Based on the the t-test, the p-value: 0.06 is determined. The p-value is not less than 0.05, we do not have sufficient evidence to reject the null hypothesis and therefore conclude that there is no statistical difference between the observed sample mean and its presumed population mean.
+
+Lot Sample t-test results:
+
+Based on the t-test, the p-value: 1 for Lot 1, p-value: 0.1 for Lot 2 and p-value: 0.04 for Lot 3 is determined.
+
+
+The p-values for Lot 1 and 2 is not less than 0.05, we do not have sufficient evidence to reject the null hypothesis and therefore conclude that there is no statistical difference between the observed sample mean and its presumed population mean.
+
+The p-value for Lot 3 is 0.041 is less than 0.05, we conclude that there is a statistical difference between the Lot 3 mean and its presumed population mean.
 
  ## Deliverable 4 : Study Design: MechaCar vs Competition
  
