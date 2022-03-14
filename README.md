@@ -102,21 +102,21 @@ The p-value for Lot 3 is 0.041 is less than 0.05, we conclude that there is a st
  Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
  
 In your description, address the following questions:
+
 1.) What metric or metrics are you going to test?
 
 Purchase Price of at least 10 of Mecha-cars competitors,
 
-What is the null hypothesis or alternative hypothesis?
+2.) What is the null hypothesis or alternative hypothesis?
 
 Purchase Price: 
 Null Hypothesis: The mean purchase price of all the cars in a class are equal
 Alternative Hypothesis: At least one of the means purchase price are not equal
 
-
-What statistical test would you use to test the hypothesis? And why?
+3.) What statistical test would you use to test the hypothesis? And why?
 ANOVA Testing, I want to test the mean purchase prices of more than 10 samples.
 
-What data is needed to run the statistical test?
+4.) What data is needed to run the statistical test?
 You would need all the purchase prices of the cars in the same class as Mecha-Car that are competition.
 
 
