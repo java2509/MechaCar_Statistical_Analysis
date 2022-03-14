@@ -11,6 +11,11 @@
 - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 
 ## Resources:
+R version 4.1.3
+R Studio version 2022.02.0+443
+Data Source: 
+
+
 
 ## Deliverable 1 : Linear Regression to Predict MPG
 
