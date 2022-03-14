@@ -29,13 +29,20 @@ Data Source: [MechaCar_mpg.csv](https://github.com/java2509/MechaCar_Statistical
 
 ![image](https://user-images.githubusercontent.com/93900628/158078969-057d5fe9-9e24-4064-a844-84f59cafef56.png)
 
-A multiple linear regression was ran using RStudio to determine the p-value and 
+A multiple linear regression was ran using RStudio, we determined r-squared value = 0.71 and the p-value: 5.3e-11. 
 
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+1.) Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-Is the slope of the linear model considered to be zero? Why or why not?
+The Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. Analyzing the Pr(>|t|) values we can determine that variables Vehicle Length (Pr(>|t|)=2.60e-12),Ground Clearance (Pr(>|t|)=5.21e-08) and the Intercept (Pr(>|t|) = 5.08e-08) statistically provided a non-random amount of variance to the mpg values.In other words, the probability is high that the vehicle length and vehicle ground clearance have a significant impact on mpg achievable with the prototype.
 
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+2.) Is the slope of the linear model considered to be zero? Why or why not?
+
+The p-value: 5.35e-11 is smaller than the allowed significance level of 0.05%. This is sufficient evidence to reject our null (H0) hypothesis which means the slope is not zero and dependent variables do effect changes in mpg.
+
+3.) Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+The r-squared (r2) value is also known as the coefficient of determination and represents how well the regression model approximates real-world data points.
+This linear model has an r-squared value of 0.7149 indicating a strong correlation. Therefore, approximately 71% of all mileage predictions will be determined correctly by this model.Although the multiple linear regression model is far better at predicting our current dataset, the lack of significant variables is evidence of overfitting. Overfitting means that the performance of a model performs well with a current dataset, but fails to generalize and predict future data correctly.
 
 ## Deliverable 2 : Summary Statistics on Suspension Coils
 
